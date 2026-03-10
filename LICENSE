@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2026 trevin-creator
+Copyright (c) 2026
+
+Additional attribution notice: this repository is based in part on ideas and workflow patterns from Andrej Karpathy's `karpathy/autoresearch` and related `nanochat` work. See `CREDITS.md` for fuller attribution and preserve upstream attribution notices for any copied or derived upstream code.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
